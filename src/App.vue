@@ -20,7 +20,7 @@
               {{ $t('nav.home') }}
             </a>
 
-            <a class="navbar-item" href="https://github.com/ZedWAreHK/cfip-check">
+            <a class="navbar-item" href="https://github.com/ZedWAreHK/ProxyIP-Check">
               {{ $t('nav.github') }}
             </a>
           </div>
@@ -126,7 +126,7 @@
         <div class="content has-text-centered">
           <p>{{ $t('footer.description') }}</p>
           <p>
-            <a href="https://github.com/ZedWAreHK/cfip-check" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/ZedWAreHK/ProxyIP-Check" target="_blank" rel="noopener noreferrer">
               {{ $t('footer.viewOnGithub') }}
             </a>
           </p>
