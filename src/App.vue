@@ -3,7 +3,7 @@
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
       <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item" href="https://t.me/ZedWAre6667890">
+          <a class="navbar-item" href="https://t.me/ZedWAre6667">
             <strong>Reverse/ProxyIP Check</strong>
           </a>
 
@@ -28,7 +28,7 @@
           <div class="navbar-end">
             <div class="navbar-item">
               <div class="buttons">
-                <a class="button is-light" href="https://t.me/ZedWAre6667890">
+                <a class="button is-light" href="https://t.me/ZedWAre6667">
                   <strong>{{ $t('nav.contact') }}</strong>
                 </a>
                 <button class="button is-light" @click="toggleLanguage">
